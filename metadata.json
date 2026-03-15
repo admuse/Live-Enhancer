@@ -1,0 +1,5 @@
+{
+  "name": "LiveEnhancer",
+  "description": "Upload an image and use live voice instructions to colorize, sharpen, or edit it using Gemini Live.",
+  "requestFramePermissions": ["microphone"]
+}

@@ -1,6 +1,3 @@
-# Live-Enhancer
-Gemini Live Hackathon Submission
-
 # LiveEnhancer: Testing Guide
 
 Welcome to **LiveEnhancer**, your AI-powered photo editing assistant. This guide will walk you through the key features and how to test them effectively.
